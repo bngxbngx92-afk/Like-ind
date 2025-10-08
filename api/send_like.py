@@ -60,7 +60,7 @@ def encrypt_api(plain_text):
 
 # ------------------- إرسال لايك -------------------
 def send_like_request(token, TARGET):
-    url = "https://clientbp.ggblueshark.com/LikeProfile"
+    url = "https://client.ind.freefiremobile.com/LikeProfile"
     headers = {
         'User-Agent': 'Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PI)',
         'Connection': 'Keep-Alive',
